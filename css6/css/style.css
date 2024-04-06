@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body
+{
+padding:10%;
+font-size:2rem;
+font-family:'Roboto';
+}
+
+a
+{
+    text-decoration: none;
+    cursor:pointer;
+    color:blue;
+}
+a:visited
+{
+    color:yellow;
+}
+a:hover,a:focus{
+    opacity: 0.0;
+/* color:green; */
+}
+a:active{
+    color:red;
+}

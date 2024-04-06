@@ -1,0 +1,43 @@
+html
+{
+    font-size:22px;
+}
+body{
+    
+    
+    
+}
+main{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+*
+{
+    border:1px solid red;
+    font-family: monospace;
+}
+
+h1,h2{
+    color:blue;
+}
+p{
+    color:purple;
+}
+/*p span{
+    text-transform: uppercase;
+    background-color: gold;
+}*/
+.highlighter
+{
+    text-transform: uppercase;
+    background-color: gold;;
+}
+.gray
+{
+color:gray;
+
+}
+#second
+{
+    font-style: italic;
+}
